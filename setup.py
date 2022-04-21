@@ -1,5 +1,5 @@
 from os import system
 
-system('pip install requests')
+system('PIP install requests')
 print('\nFinished.')
 system('pause >NUL')
